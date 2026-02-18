@@ -1,7 +1,7 @@
 
-  # Untitled
+  # MYDesign
 
-  This is a code bundle for Untitled. The original project is available at https://www.figma.com/design/v8z6nEsMB8whDmV8ZgSgU6/Untitled.
+  This is a code bundle for MYDesign. The original project is available at https://www.figma.com/design/v8z6nEsMB8whDmV8ZgSgU6/MYDesign.
 
   ## Running the code
 
